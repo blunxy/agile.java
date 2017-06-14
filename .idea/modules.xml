@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agile.java.iml" filepath="$PROJECT_DIR$/.idea/modules/agile.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agile.java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/agile.java_main.iml" group="agile.java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agile.java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/agile.java_test.iml" group="agile.java" />
+    </modules>
+  </component>
+</project>
